@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python / Django
+__pycache__/
+*.pyc
+.env
+venv/
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
